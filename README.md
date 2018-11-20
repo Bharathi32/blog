@@ -19,3 +19,7 @@ A basic blog application that contains the following features:
 - Backend built using [ExpressJs](https://expressjs.com/)
 - [PostgreSQL](https://www.postgresql.org/) database.
 ---
+### How to install
+- Prerequisites
+    - Have a running PostgreSQL database.
+    - Have [NodeJs](https://nodejs.org/en/) installed.
