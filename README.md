@@ -1,6 +1,5 @@
 # Blog
 
-----
 A basic blog application that contains the following features:  
 
 -   Authentication via the following:
@@ -15,7 +14,7 @@ A basic blog application that contains the following features:
 - Likes and comments can be made on a post.
 
 ---
-###Tech stack
+### Tech stack
 - Frontend powered by [React](https://reactjs.org/)
 - Backend built using [ExpressJs](https://expressjs.com/)
 - [PostgreSQL](https://www.postgresql.org/) database.
